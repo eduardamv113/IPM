@@ -1,4 +1,5 @@
-InsideAirbnb Data Dashboard
+**InsideAirbnb Data Dashboard**
+
 This project was developed for the Human-Computer Interaction (Interação Pessoa-Máquina) course, achieving a final grade of 17/20.
 
 The goal was to design and implement a data visualization platform using InsideAirbnb datasets. The interface was specifically built to help researchers, city officials, and activists analyze the impact of short-term rentals on local housing markets in cities like Lisbon and Porto.
