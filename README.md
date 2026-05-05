@@ -18,4 +18,6 @@ Phase 2 (Implementation): Developed the functional web interface using Vue.js, c
 
 3. User-Centric Design: Tailored views for different technical skill levels, from raw data exports to simplified social media graphics.
 
+How to run: npm run dev
+
 Final Grade: 14/20
